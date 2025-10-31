@@ -1,3 +1,0 @@
-git add .github/workflows/ci.yml
-git commit -m "Add CI workflow for testing"
-git push
